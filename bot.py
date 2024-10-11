@@ -1,18 +1,23 @@
+from asyncio import sleep
+
+import pathlib
 import discord
 from discord.ext import commands
 import os
 from dotenv import load_dotenv
 import random
+import asyncio
 
-# Load environment variables from .env file
 load_dotenv()
+
 TOKEN = os.getenv('DISCORD_TOKEN')
 
-# Set up intents and create bot instance
+print(f"Token: {TOKEN}")
+
 intents = discord.Intents.default()
-intents.message_content = True  # Required for message content
-intents.voice_states = True  # Required for voice state updates
-bot = commands.Bot(command_prefix='/', intents=intents)
+intents.message_content = True
+intents.voice_states = True
+bot = commands.Bot(command_prefix='!', intents=intents)
 
 
 @bot.event
@@ -20,49 +25,47 @@ async def on_ready():
     print("Bot ready")
 
 
-@bot.command()
-async  def hello(ctx):
-    await ctx.send("Hello there!")
+@bot.command(name="test")
+async def test(ctx):
+    await ctx.send("The test command was successful!")
 
 
-# Random voiceline command
 @bot.command(name="random")
-async def random_voiceline(ctx):
-    # Specify the path to the voicelines folder
-    voiceline_folder = "./voicelines"  # Change this path as necessary
+async def fire(ctx):
+    voicelines_folder = pathlib.Path('voicelines')
 
-    # List all files in the folder
-    try:
-        voicelines = os.listdir(voiceline_folder)  # Get list of files in the directory
-        voicelines = [f for f in voicelines if f.endswith('.wav')]  # Filter only .wav files
+    files_in_folder = os.listdir(voicelines_folder)
+    directory_only = [
+        d for d in os.listdir(voicelines_folder)
+        if os.path.isdir(os.path.join(voicelines_folder, d))
+    ]
+    random_directory = random.choice(directory_only)
+    random_directory_path = voicelines_folder / random_directory
 
-        if voicelines:
-            selected_voiceline = random.choice(voicelines)  # Select a random voiceline
+    files_in_folder = os.listdir(random_directory_path)
+    files_only = [
+        f for f in files_in_folder
+        if os.path.isfile(os.path.join(random_directory_path, f))
+    ]
+    random_file = random.choice(files_only)
+    random_voiceline_path = random_directory_path / random_file
 
-            # Connect to the voice channel
-            if ctx.author.voice:
-                channel = ctx.author.voice.channel
-                voice_client = await channel.connect()  # Connect to the voice channel
+    # await ctx.send(random_voiceline_path)
 
-                # Play the selected voiceline
-                source = discord.FFmpegPCMAudio(os.path.join(voiceline_folder, selected_voiceline))
-                voice_client.play(source)
-
-                await ctx.send(f"Random voiceline: {selected_voiceline}")
-
-                # Wait until the audio is finished playing
-                while voice_client.is_playing():
-                    await discord.utils.sleep(1)
-
-                # Disconnect from the voice channel
-                await voice_client.disconnect()
-            else:
-                await ctx.send("You need to be in a voice channel to use this command.")
-        else:
-            await ctx.send("No voicelines found.")
-    except Exception as e:
-        await ctx.send(f"Error occurred: {str(e)}")
-
+    voice_channel = ctx.author.voice.channel
+    discord.channel = None
+    if (voice_channel != None):
+        discord.channel = voice_channel.name
+        vc = await voice_channel.connect()
+        source = await discord.FFmpegOpusAudio.from_probe(
+            source=random_voiceline_path.as_posix())
+        vc.play(source)
+        while vc.is_playing():
+            await sleep(.1)
+        await vc.disconnect()
+    else:
+        await ctx.send(str(ctx.author.name) + " is not in a channel.")
+    await ctx.message.delete()
 
 
 bot.run(TOKEN)
