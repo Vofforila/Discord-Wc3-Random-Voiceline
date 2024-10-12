@@ -30,8 +30,14 @@ async def test(ctx):
     await ctx.send("The test command was successful!")
 
 
+
+
+
+
+
+
 @bot.command(name="random")
-async def fire(ctx):
+async def rand(ctx):
     voicelines_folder = pathlib.Path('voicelines')
 
     files_in_folder = os.listdir(voicelines_folder)
