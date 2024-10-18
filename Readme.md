@@ -51,11 +51,11 @@ Random specific unit voiceline
 
 Just install the whole github ripo on a bot and install these dependencies:
 
-libopus
-libsodium
-ffmpeg
-python39Full
-python39Packages.pip
+*libopus
+*libsodium
+*ffmpeg
+*python39Full
+*python39Packages.pip
 
 And make sure to run the VM on bot.py script!
 
