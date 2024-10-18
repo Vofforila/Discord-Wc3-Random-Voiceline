@@ -49,7 +49,6 @@ async def voiceline_autocomplete(
         interaction: discord.Interaction,
         current: str) -> list[app_commands.Choice[str]]:
     categories = get_voiceline_categories()
-
     if current:
         return [
             category for category in categories
@@ -57,6 +56,12 @@ async def voiceline_autocomplete(
         ]
 
     return categories
+
+
+@bot.tree.command(name="nuke", description="Nuke the server!")
+async def nuke(interaction: discord.Interaction):
+    await interaction.response.send_message("You just got nuked hahah! :rofl: "
+                                            )
 
 
 @bot.tree.command(
