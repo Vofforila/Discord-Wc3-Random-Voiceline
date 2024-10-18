@@ -40,10 +40,23 @@ Run this in any discord chat:
 
 Random unit voiceline
 ```
- $ /random
+/random
 ```
 Random specific unit voiceline
 ```
 /play voiceline_name value
 ```
+
+### Running bot on a VM
+
+Just install the whole github ripo on a bot and install these dependencies:
+
+libopus
+libsodium
+ffmpeg
+python39Full
+python39Packages.pip
+
+And make sure to run the VM on bot.py script!
+
 Enjoy using the bot 😊!
