@@ -10,3 +10,40 @@ This is a Discord Bot that plays Random Waracraft 3 Voicelines.
 | [Replit](https://replit.com/)  | VMDocker |  |
 | [Python](https://www.python.org/) | Language | 3.10 |
 | [Discord-py](https://discordpy.readthedocs.io/en/stable/) | Library | 4.4.0 |
+
+### Install
+
+Add bot on a discord server using this link:
+
+https://discord.com/oauth2/authorize?client_id=1294351169346469992
+
+Get Pycharm Community:
+
+https://www.jetbrains.com/pycharm/download/
+
+Clone Github:
+```
+  $ git clone https://github.com/Vofforila/Discord-Wc3-Random-Voiceline
+```
+In Pycharm terminal run following command to get discord.py library:
+```
+  $ py -3 -m pip install -U discord.py
+```
+Run the bot locally with:
+```
+ $ python bot.py 
+```
+
+### Usage
+
+Run this in any discord chat:
+
+Random unit voiceline
+```
+ $ /random
+```
+Random specific unit voiceline
+```
+/play voiceline_name value
+```
+Enjoy using the bot 😊!
