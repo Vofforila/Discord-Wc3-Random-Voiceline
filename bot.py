@@ -15,7 +15,7 @@ intents = discord.Intents.default()
 
 intents.message_content = True
 intents.voice_states = True
-Guildid = 1276145726908530799
+Guildid = int(os.getenv('GUILD_ID'))
 
 bot = commands.Bot(command_prefix='/', intents=intents)
 
