@@ -21,6 +21,10 @@ Get Pycharm Community:
 
 https://www.jetbrains.com/pycharm/download/
 
+Discord Dev App Page:
+
+https://discord.com/developers/applications
+
 Clone Github:
 ```
   $ git clone https://github.com/Vofforila/Discord-Wc3-Random-Voiceline
