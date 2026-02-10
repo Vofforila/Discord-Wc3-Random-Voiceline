@@ -1,0 +1,676 @@
+nohup: ignoring input
+[2026-02-10 14:12:02] [INFO    ] discord.client: logging in using static token
+[2026-02-10 14:12:04] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 82175802e95ee62c1fba09cda6c9379a).
+[2026-02-10 14:12:11] [INFO    ] discord.voice_state: Connecting to voice...
+[2026-02-10 14:12:11] [INFO    ] discord.voice_state: Starting voice handshake... (connection attempt 1)
+[2026-02-10 14:12:15] [INFO    ] discord.voice_state: The voice handshake is being terminated for Channel ID 333669908665729025 (Guild ID 327061801231450112)
+Logged in as Vofforila's Nuke Bot#0560 (ID: 1294351169346469992)
+Guild ID from env: 1276145726908530799
+Sync failed: 403 Forbidden (error code: 50001): Missing Access
+Autocomplete called | focused value='' | user=vofforila
+Looking for voicelines folder at: /home/vofforila/Discord-Wc3-Random-Voiceline/voicelines
+Found 219 categories: ['Spiritwolf', 'SnowOwl', 'SylvanusWindrunner', 'HeroShadowHunter', 'Wisp', 'DruidOfTheTalon', 'LordGarithos', 'Ent', 'Raccoon', 'HeroNagaSeawitch', 'Ballista', 'MalFurion', 'RockGolem', 'SeaGiant', 'Rokhan', 'VillagerMan', 'FirePandarenBrewmaster', 'HeroCryptLord', 'BansheeRanger', 'WyvernRider', 'HeroKeeperOfTheGrove', 'Magnataur', 'Pig', 'Tyrande', 'Acolyte', 'MurgulBloodGill', 'Sorceress', 'SpiritWalker', 'Harpy', 'Warlock', 'Necromancer', 'Thrall', 'Tauren', 'LadyVashj', 'HeroFarseer', 'Mammoth', 'DireWolf', 'HeadHunter', 'Destructibles', 'DranaiAkama', 'Assassin', 'Illidan', 'QuillBeast', 'Locust', 'SteamTank', 'HeroTaurenChieftain', 'OrcWarlock', 'Gargoyle', 'HEROGoblinALCHEMIST', 'Naisha', 'Footman', 'AncestralGuardian', 'Scarab', 'MortarTeam', 'SpiritOfVengeance', 'TheCaptain', 'WarEagle', 'GryphonRider', 'Muradin', 'InfernalCannonCannon', 'HumanTransportShip', 'Wolf', 'Penguin', 'Demoness', 'GiantSeaTurtle', 'Tichondrius', 'Arthas', 'StasisTotem', 'BlackStagMale', 'ForestTroll', 'BloodElfPeasant', 'KotoBeast', 'Maiev', 'HeroMountainKing', 'EasterRabbit', 'Peon', 'Bandit', 'Dranai', 'IceTroll', 'BansheeGhost', 'Rifleman', 'GoblinSapper', 'EarthPandarenBrewmaster', 'HermitCrab', 'Catapult', 'EasterChicken', 'Jaina', 'HeroTinker', 'Kobold', 'Furbolg', 'VillagerWoman', 'GrizzlyBear', 'SentryWard', 'HeroPaladin', 'Huntress', 'HeroDemonHunter', 'Wendigo', 'Felgaurd', 'HeroBladeMaster', 'Sheep', 'Priest', 'NagaRoyalGuard', 'Chimaera', 'Hellscream', 'Units', 'InfernalCannonFlame', 'BlackDragon', 'Uther', 'BloodElfSpellThief', 'Murloc', 'Banshee', 'Vulture', 'FrostWyrm', 'Hydralisk', 'DruidOfTheClaw', 'Zombie', 'HeroDreadLord', 'Furion', 'HippoGryph', 'Frog', 'HeroLich', 'Hydra', 'Buildings', 'Pitlord', 'Knight', 'KelThuzadNecro', 'GoblinLandMine', 'UndeadAirBarge', 'tuskar', 'IronGolem', 'GnollArcher', 'Kael', 'Revenant', 'Satyr', 'BristleBack', 'AzureDragon', 'Centaur', 'ChaosWarlord', 'KnightNoRider', 'Albatross', 'Dryad', 'HeroTinkerRobot', 'Archer', 'DragonSpawnBlue', 'DoomGuard', 'GoblinZeppelin', 'GolemStatue', 'DrekThar', 'Watcher', 'Vengeance', 'Shandris', 'FaerieDragon', 'EvilArthas', 'KelThuzadLich', 'CorruptedEnt', 'HealingWard', 'FacelessOne', 'Owl', 'Skink', 'Phoenix', 'HeroWarden', 'CryptFiend', 'Wolfrider', 'Ghoul', 'HeroFlameLord', 'HeroTinkerFactory', 'Archnathid', 'Lobstrokkblue', 'Runner', 'Peasant', 'Nazgrel', 'HeroArchMage', 'SnapDragon', 'EvilSylvanas', 'Shade', 'WaterElemental', 'HeroMoonPriestess', 'ForgottenOne', 'Time', 'HeroPitLord', 'HeroDeathKnight', 'VillagerMan1', 'PandarenBrewmaster', 'Grunt', 'SpiderCrab', 'WindSerpent', 'SludgeMonster', 'DuneWorm', 'NetherDragon', 'Abomination', 'LavaSpawn', 'BloodElfDragonHawk', 'Infernal', 'Seal', 'BatTroll', 'Shaman', 'StormPandarenBrewmaster', 'ObsidianStatue', 'Gnoll', 'NagaMyrmidon', 'MountainGiant', 'ForestTrollShadowPriest', 'VillagerKid', 'Beastmaster', 'WitchDoctor', 'Cairne', 'RiddenHippoGryph', 'Meatwagon', 'felhound', 'NagaSiren', 'Ogre', 'Spider', 'Owlbear', 'Skeleton', 'Unbroken', 'Varimathras', 'HeroBloodElf', 'GyroCopter', 'Rat']
+Returning all 219 options
+Autocomplete called | focused value='Rokhan' | user=vofforila
+Looking for voicelines folder at: /home/vofforila/Discord-Wc3-Random-Voiceline/voicelines
+Found 219 categories: ['Spiritwolf', 'SnowOwl', 'SylvanusWindrunner', 'HeroShadowHunter', 'Wisp', 'DruidOfTheTalon', 'LordGarithos', 'Ent', 'Raccoon', 'HeroNagaSeawitch', 'Ballista', 'MalFurion', 'RockGolem', 'SeaGiant', 'Rokhan', 'VillagerMan', 'FirePandarenBrewmaster', 'HeroCryptLord', 'BansheeRanger', 'WyvernRider', 'HeroKeeperOfTheGrove', 'Magnataur', 'Pig', 'Tyrande', 'Acolyte', 'MurgulBloodGill', 'Sorceress', 'SpiritWalker', 'Harpy', 'Warlock', 'Necromancer', 'Thrall', 'Tauren', 'LadyVashj', 'HeroFarseer', 'Mammoth', 'DireWolf', 'HeadHunter', 'Destructibles', 'DranaiAkama', 'Assassin', 'Illidan', 'QuillBeast', 'Locust', 'SteamTank', 'HeroTaurenChieftain', 'OrcWarlock', 'Gargoyle', 'HEROGoblinALCHEMIST', 'Naisha', 'Footman', 'AncestralGuardian', 'Scarab', 'MortarTeam', 'SpiritOfVengeance', 'TheCaptain', 'WarEagle', 'GryphonRider', 'Muradin', 'InfernalCannonCannon', 'HumanTransportShip', 'Wolf', 'Penguin', 'Demoness', 'GiantSeaTurtle', 'Tichondrius', 'Arthas', 'StasisTotem', 'BlackStagMale', 'ForestTroll', 'BloodElfPeasant', 'KotoBeast', 'Maiev', 'HeroMountainKing', 'EasterRabbit', 'Peon', 'Bandit', 'Dranai', 'IceTroll', 'BansheeGhost', 'Rifleman', 'GoblinSapper', 'EarthPandarenBrewmaster', 'HermitCrab', 'Catapult', 'EasterChicken', 'Jaina', 'HeroTinker', 'Kobold', 'Furbolg', 'VillagerWoman', 'GrizzlyBear', 'SentryWard', 'HeroPaladin', 'Huntress', 'HeroDemonHunter', 'Wendigo', 'Felgaurd', 'HeroBladeMaster', 'Sheep', 'Priest', 'NagaRoyalGuard', 'Chimaera', 'Hellscream', 'Units', 'InfernalCannonFlame', 'BlackDragon', 'Uther', 'BloodElfSpellThief', 'Murloc', 'Banshee', 'Vulture', 'FrostWyrm', 'Hydralisk', 'DruidOfTheClaw', 'Zombie', 'HeroDreadLord', 'Furion', 'HippoGryph', 'Frog', 'HeroLich', 'Hydra', 'Buildings', 'Pitlord', 'Knight', 'KelThuzadNecro', 'GoblinLandMine', 'UndeadAirBarge', 'tuskar', 'IronGolem', 'GnollArcher', 'Kael', 'Revenant', 'Satyr', 'BristleBack', 'AzureDragon', 'Centaur', 'ChaosWarlord', 'KnightNoRider', 'Albatross', 'Dryad', 'HeroTinkerRobot', 'Archer', 'DragonSpawnBlue', 'DoomGuard', 'GoblinZeppelin', 'GolemStatue', 'DrekThar', 'Watcher', 'Vengeance', 'Shandris', 'FaerieDragon', 'EvilArthas', 'KelThuzadLich', 'CorruptedEnt', 'HealingWard', 'FacelessOne', 'Owl', 'Skink', 'Phoenix', 'HeroWarden', 'CryptFiend', 'Wolfrider', 'Ghoul', 'HeroFlameLord', 'HeroTinkerFactory', 'Archnathid', 'Lobstrokkblue', 'Runner', 'Peasant', 'Nazgrel', 'HeroArchMage', 'SnapDragon', 'EvilSylvanas', 'Shade', 'WaterElemental', 'HeroMoonPriestess', 'ForgottenOne', 'Time', 'HeroPitLord', 'HeroDeathKnight', 'VillagerMan1', 'PandarenBrewmaster', 'Grunt', 'SpiderCrab', 'WindSerpent', 'SludgeMonster', 'DuneWorm', 'NetherDragon', 'Abomination', 'LavaSpawn', 'BloodElfDragonHawk', 'Infernal', 'Seal', 'BatTroll', 'Shaman', 'StormPandarenBrewmaster', 'ObsidianStatue', 'Gnoll', 'NagaMyrmidon', 'MountainGiant', 'ForestTrollShadowPriest', 'VillagerKid', 'Beastmaster', 'WitchDoctor', 'Cairne', 'RiddenHippoGryph', 'Meatwagon', 'felhound', 'NagaSiren', 'Ogre', 'Spider', 'Owlbear', 'Skeleton', 'Unbroken', 'Varimathras', 'HeroBloodElf', 'GyroCopter', 'Rat']
+Filtered to 1 options
+Autocomplete called | focused value='Rokha' | user=vofforila
+Looking for voicelines folder at: /home/vofforila/Discord-Wc3-Random-Voiceline/voicelines
+Found 219 categories: ['Spiritwolf', 'SnowOwl', 'SylvanusWindrunner', 'HeroShadowHunter', 'Wisp', 'DruidOfTheTalon', 'LordGarithos', 'Ent', 'Raccoon', 'HeroNagaSeawitch', 'Ballista', 'MalFurion', 'RockGolem', 'SeaGiant', 'Rokhan', 'VillagerMan', 'FirePandarenBrewmaster', 'HeroCryptLord', 'BansheeRanger', 'WyvernRider', 'HeroKeeperOfTheGrove', 'Magnataur', 'Pig', 'Tyrande', 'Acolyte', 'MurgulBloodGill', 'Sorceress', 'SpiritWalker', 'Harpy', 'Warlock', 'Necromancer', 'Thrall', 'Tauren', 'LadyVashj', 'HeroFarseer', 'Mammoth', 'DireWolf', 'HeadHunter', 'Destructibles', 'DranaiAkama', 'Assassin', 'Illidan', 'QuillBeast', 'Locust', 'SteamTank', 'HeroTaurenChieftain', 'OrcWarlock', 'Gargoyle', 'HEROGoblinALCHEMIST', 'Naisha', 'Footman', 'AncestralGuardian', 'Scarab', 'MortarTeam', 'SpiritOfVengeance', 'TheCaptain', 'WarEagle', 'GryphonRider', 'Muradin', 'InfernalCannonCannon', 'HumanTransportShip', 'Wolf', 'Penguin', 'Demoness', 'GiantSeaTurtle', 'Tichondrius', 'Arthas', 'StasisTotem', 'BlackStagMale', 'ForestTroll', 'BloodElfPeasant', 'KotoBeast', 'Maiev', 'HeroMountainKing', 'EasterRabbit', 'Peon', 'Bandit', 'Dranai', 'IceTroll', 'BansheeGhost', 'Rifleman', 'GoblinSapper', 'EarthPandarenBrewmaster', 'HermitCrab', 'Catapult', 'EasterChicken', 'Jaina', 'HeroTinker', 'Kobold', 'Furbolg', 'VillagerWoman', 'GrizzlyBear', 'SentryWard', 'HeroPaladin', 'Huntress', 'HeroDemonHunter', 'Wendigo', 'Felgaurd', 'HeroBladeMaster', 'Sheep', 'Priest', 'NagaRoyalGuard', 'Chimaera', 'Hellscream', 'Units', 'InfernalCannonFlame', 'BlackDragon', 'Uther', 'BloodElfSpellThief', 'Murloc', 'Banshee', 'Vulture', 'FrostWyrm', 'Hydralisk', 'DruidOfTheClaw', 'Zombie', 'HeroDreadLord', 'Furion', 'HippoGryph', 'Frog', 'HeroLich', 'Hydra', 'Buildings', 'Pitlord', 'Knight', 'KelThuzadNecro', 'GoblinLandMine', 'UndeadAirBarge', 'tuskar', 'IronGolem', 'GnollArcher', 'Kael', 'Revenant', 'Satyr', 'BristleBack', 'AzureDragon', 'Centaur', 'ChaosWarlord', 'KnightNoRider', 'Albatross', 'Dryad', 'HeroTinkerRobot', 'Archer', 'DragonSpawnBlue', 'DoomGuard', 'GoblinZeppelin', 'GolemStatue', 'DrekThar', 'Watcher', 'Vengeance', 'Shandris', 'FaerieDragon', 'EvilArthas', 'KelThuzadLich', 'CorruptedEnt', 'HealingWard', 'FacelessOne', 'Owl', 'Skink', 'Phoenix', 'HeroWarden', 'CryptFiend', 'Wolfrider', 'Ghoul', 'HeroFlameLord', 'HeroTinkerFactory', 'Archnathid', 'Lobstrokkblue', 'Runner', 'Peasant', 'Nazgrel', 'HeroArchMage', 'SnapDragon', 'EvilSylvanas', 'Shade', 'WaterElemental', 'HeroMoonPriestess', [2026-02-10 14:12:22] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in au[2026-02-10 14:12:40] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:12:41] [INFO    ] discord.voice_state: Timed out connecting to voice
+[2026-02-10 14:12:41] [INFO    ] discord.voice_state: The voice handshake is being terminated for Channel ID 333669908665729025 (Guild ID 327061801231450112)
+[2026-02-10 14:12:41] [INFO    ] discord.voice_state: The voice handshake is being terminated for Channel ID 333669908665729025 (Guild ID 327061801231450112)
+[2026-02-10 14:12:42] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.1[2026-02-10 14:12:42] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.1
+Filtered to 1 options
+Autocomplete called | focused value='G' | user=vofforila
+Looking for voicelines folder at: /home/vofforila/Discord-Wc3-Random-Voiceline/voicelines
+Found 219 categories: ['Spiritwolf', 'SnowOwl', 'SylvanusWindrunner', 'HeroShadowHunter', 'Wisp', 'DruidOfTheTalon', 'LordGarithos', 'Ent', 'Raccoon', 'HeroNagaSeawitch', 'Ballista', 'MalFurion'[2026-02-10 14:12:42] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:12:44] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:12:47] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:12:49] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:12:52] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+[2026-02-10 14:12:57] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In data.choices: Must be 25 or fewer in length.
+[2026-02-10 14:12:58] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:13:01] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:13:02] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:13:11] [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'random'
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/asyncio/tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/voice_state.py", line 407, in _inner_connect
+    await self._wait_for_state(ConnectionFlowState.got_both_voice_updates)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/voice_state.py", line 559, in _wait_for_state
+    await sane_wait_for([self._state_event.wait()], timeout=timeout)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/utils.py", line 727, in sane_wait_for
+    done, pending = await asyncio.wait(ensured, timeout=timeout, return_when=asyncio.ALL_COMPLETED)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/asyncio/tasks.py", line 451, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/asyncio/tasks.py", line 537, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vofforila/Discord-Wc3-Random-Voiceline/bot.py", line 159, in rand
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/abc.py", line 2149, in connect
+    await voice.connect(timeout=timeout, reconnect=reconnect, self_deaf=self_deaf, self_mute=self_mute)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/voice_client.py", line 306, in connect
+    await self._connection.connect(
+        reconnect=reconnect, timeout=timeout, self_deaf=self_deaf, self_mute=self_mute, resume=False
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/voice_state.py", line 380, in connect
+    await self._connector
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/voice_state.py", line 384, in _wrap_connect
+    await self._connect(*args)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/voice_state.py", line 429, in _connect
+    await asyncio.wait_for(
+    ...<2 lines>...
+    )
+  File "/usr/lib/python3.13/asyncio/tasks.py", line 506, in wait_for
+    async with timeouts.timeout(timeout):
+               ~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/lib/python3.13/asyncio/timeouts.py", line 116, in __aexit__
+    raise TimeoutError from exc_val
+TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1297, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'random' raised an exception: TimeoutError: 
+[2026-02-10 14:13:18] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+[2026-02-10 14:13:19] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:13:22] [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vofforila/Discord-Wc3-Random-Voiceline/bot.py", line 100, in play
+    if os.path.isfile(os.path.join(voicelines_folder, f))
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 858, in defer
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1297, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'play' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:13:38] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+[2026-02-10 14:13:42] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In data.choices: Must be 25 or fewer in length.
+[2026-02-10 14:13:43] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+[2026-02-10 14:13:43] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:13:45] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:13:59] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:14:01] [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vofforila/Discord-Wc3-Random-Voiceline/bot.py", line 100, in play
+    if os.path.isfile(os.path.join(voicelines_folder, f))
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 858, in defer
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1297, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'play' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+ransportShip', 'Wolf', 'Penguin', 'Demoness', 'GiantSeaTurtle', 'Tichondrius', 'Arthas', 'StasisTotem', 'BlackStagMale', 'ForestTroll', 'BloodElfPeasant', 'KotoBeast', 'Maiev', 'HeroMountainKing', 'EasterRabbit', 'Peon', 'Bandit', 'Dranai', 'IceTroll', 'BansheeGhost', 'Rifleman', 'GoblinSapper', 'EarthPandarenBrewmaster', 'HermitCrab', 'Catapult', 'EasterChicken', 'Jaina', 'HeroTinker', 'Kobold', 'Furbolg', 'VillagerWoman', 'GrizzlyBear', 'SentryWard', 'HeroPaladin', 'Huntress', 'HeroDemonHunter', 'Wendigo', 'Felgaurd', 'HeroBladeMaster', 'Sheep', 'Priest', 'NagaRoyalGuard', 'Chimaera', 'Hellscream', 'Units', 'InfernalCannonFlame', 'BlackDragon', 'Uther', 'BloodElfSpellThief', 'Murloc', 'Banshee', 'Vulture', 'FrostWyrm', 'Hydralisk', 'DruidOfTheClaw', 'Zombie', 'HeroDreadLord', 'Furion', 'HippoGryph', 'Frog', 'HeroLich', 'Hydra', 'Buildings', 'Pitlord', 'Knight', 'KelThuzadNecro', 'GoblinLandMine', 'UndeadAirBarge', 'tuskar', 'IronGolem', 'GnollArcher', 'Kael', 'Revenant', 'Satyr', 'BristleBack', 'AzureDragon', 'Centaur', 'ChaosWarlord', 'KnightNoRider', 'Albatross', 'Dryad', 'HeroTinkerRobot', 'Archer', 'DragonSpawnBlue', 'DoomGuard', 'GoblinZeppelin', 'GolemStatue', 'DrekThar', 'Watcher', 'Vengeance', 'Shandris', 'FaerieDragon', 'EvilArthas', 'KelThuzadLich', 'CorruptedEnt', 'HealingWard', 'FacelessOne', 'Owl', 'Skink', 'Phoenix', 'HeroWarden', 'CryptFiend', 'Wolfrider', 'Ghoul', 'HeroFlameLord', 'HeroTinkerFactory', 'Archnathid', 'Lobstrokkblue', 'Runner', 'Peasant', 'Nazgrel', 'HeroArchMage', 'SnapDragon', 'EvilSylvanas', 'Shade', 'WaterElemental', 'HeroMoonPriestess', 'ForgottenOne', 'Time', 'HeroPitLord', 'HeroDeathKnight', 'VillagerMan1', 'PandarenBrewmaster', 'Grunt', 'SpiderCrab', 'WindSerpent', 'SludgeMonster', 'DuneWorm', 'NetherDragon', 'Abomination', 'LavaSpawn', 'BloodElfDragonHawk', 'Infernal', 'Seal', 'BatTroll', 'Shaman', 'StormPandarenBrewmaster', 'ObsidianStatue', 'Gnoll', 'NagaMyrmidon', 'MountainGiant', 'ForestTrollShadowPriest', 'VillagerKid', 'Beastmaster', 'WitchDoctor', 'Cairne', 'RiddenHippoGryph', 'Meatwagon', 'felhound', 'NagaSiren', 'Ogre', 'Spider', 'Owlbear', 'Skeleton', 'Unbroken', 'Varimathras', 'HeroBloodElf', 'GyroCopter', 'Rat']
+Filtered to 7 options
+Autocomplete called | focused value='t' | user=vofforila
+Looking for voicelines folder at: /home/vofforila/Discord-Wc3-Random-Voiceline/voicelines
+Found 219 categories: ['Spiritwolf', 'SnowOwl', 'SylvanusWindrunner', 'HeroShadowHunter', 'Wisp', 'DruidOfTheTalon', 'LordGarithos', 'Ent', 'Raccoon', 'HeroNagaSeawitch', 'Ballista', 'MalFurion', 'RockGolem', 'SeaGiant', 'Rokhan', 'VillagerMan', 'FirePandarenBrewmaster', 'HeroCryptLord', 'BansheeRanger', 'WyvernRider', 'HeroKeeperOfTheGrove', 'Magnataur', 'Pig', 'Tyrande', 'Acolyte', 'MurgulBloodGill', 'Sorceress', 'SpiritWalker', 'Harpy', 'Warlock', 'Necromancer', 'Thrall', 'Tauren', 'LadyVashj', 'HeroFarseer', 'Mammoth', 'DireWolf', 'HeadHunter', 'Destructibles', 'DranaiAkama', 'Assassin', 'Illidan', 'QuillBeast', 'Locust', 'SteamTank', 'HeroTaurenChieftain', 'OrcWarlock', 'Gargoyle', 'HEROGoblinALCHEMIST', 'Naisha', 'Footman', 'AncestralGuardian', 'Scarab', 'MortarTeam', 'SpiritOfVengeance', 'TheCaptain', 'WarEagle', 'GryphonRider', 'Muradin', 'InfernalCannonCannon', 'HumanTransportShip', 'Wolf', 'Penguin', 'Demoness', 'GiantSeaTurtle', 'Tichondrius', 'Arthas', 'StasisTotem', 'BlackStagMale', 'ForestTroll', 'BloodElfPeasant', 'KotoBeast', 'Maiev', 'HeroMountainKing', 'EasterRabbit', 'Peon', 'Bandit', 'Dranai', 'IceTroll', 'BansheeGhost', 'Rifleman', 'GoblinSapper', 'EarthPandarenBrewmaster', 'HermitCrab', 'Catapult', 'EasterChicken', 'Jaina', 'HeroTinker', 'Kobold', 'Furbolg', 'VillagerWoman', 'GrizzlyBear', 'SentryWard', 'HeroPaladin', 'Huntress', 'HeroDemonHunter', 'Wendigo', 'Felgaurd', 'HeroBladeMaster', 'Sheep', 'Priest', 'NagaRoyalGuard', 'Chimaera', 'Hellscream', 'Units', 'InfernalCannonFlame', 'BlackDragon', 'Uther', 'BloodElfSpellThief', 'Murloc', 'Banshee', 'Vulture', 'FrostWyrm', 'Hydralisk', 'DruidOfTheClaw', 'Zombie', 'HeroDreadLord', 'Furion', 'HippoGryph', 'Frog', 'HeroLich', 'Hydra', 'Buildings', 'Pitlord', 'Knight', 'KelThuzadNecro', 'GoblinLandMine', 'UndeadAirBarge', 'tuskar', 'IronGolem', 'GnollArcher', 'Kael', 'Revenant', 'Satyr', 'BristleBack', 'AzureDragon', 'Centaur', 'ChaosWarlord', 'KnightNoRider', 'Albatross', 'Dryad', 'HeroTinkerRobot', 'Archer', 'DragonSpawnBlue', 'DoomGuard', 'GoblinZeppelin', 'GolemStatue', 'DrekThar', 'Watcher', 'Vengeance', 'Shandris', 'FaerieDragon', 'EvilArthas', 'KelThuzadLich', 'CorruptedEnt', 'HealingWard', 'FacelessOne', 'Owl', 'Skink', 'Phoenix', 'HeroWarden', 'CryptFiend', 'Wolfrider', 'Ghoul', 'HeroFlameLord', 'HeroTinkerFactory', 'Archnathid', 'Lobstrokkblue', 'Runner', 'Peasant', 'Nazgrel', 'HeroArchMage', 'SnapDragon', 'EvilSylvanas', 'Shade', 'WaterElemental', 'HeroMoonPriestess', 'ForgottenOne', 'Time', 'HeroPitLord', 'HeroDeathKnight', 'VillagerMan1', 'PandarenBrewmaster', 'Grunt', 'SpiderCrab', 'WindSerpent', 'SludgeMonster', 'DuneWorm', 'NetherDragon', 'Abomination', 'LavaSpawn', 'BloodElfDragonHawk', 'Infernal', 'Seal', 'BatTroll', 'Shaman', 'StormPandarenBrewmaster', 'ObsidianStatue', 'Gnoll', 'NagaMyrmidon', 'MountainGiant', 'ForestTrollShadowPriest', 'VillagerKid', 'Beastmaster', 'WitchDoctor', 'Cairne', 'RiddenHippoGryph', 'Meatwagon', 'felhound', 'NagaSiren', 'Ogre', 'Spider', 'Owlbear', 'Skeleton', 'Unbroken', 'Varimathras', 'HeroBloodElf', 'GyroCopter', 'Rat']
+Filtered to 106 options
+Autocomplete called | focused value='trade' | user=vofforila
+Looking for voicelines folder at: /home/vofforila/Discord-Wc3-Random-Voiceline/voicelines
+Found 219 categories: ['Spiritwolf', 'SnowOwl', 'SylvanusWindrunner', 'HeroShadowHunter', 'Wisp', 'DruidOfTheTalon', 'LordGarithos', 'Ent', 'Raccoon', 'HeroNagaSeawitch', 'Ballista', 'MalFurion', 'RockGolem', 'SeaGiant', 'Rokhan', 'VillagerMan', 'FirePandarenBrewmaster', 'HeroCryptLord', 'BansheeRanger', 'WyvernRider', 'HeroKeeperOfTheGrove', 'Magnataur', 'Pig', 'Tyrande', 'Acolyte', 'MurgulBloodGill', 'Sorceress', 'SpiritWalker', 'Harpy', 'Warlock', 'Necromancer', 'Thrall', 'Tauren', 'LadyVashj', 'HeroFarseer', 'Mammoth', 'DireWolf', 'HeadHunter', 'Destructibles', 'DranaiAkama', 'Assassin', 'Illidan', 'QuillBeast', 'Locust', 'SteamTank', 'HeroTaurenChieftain', 'OrcWarlock', 'Gargoyle', 'HEROGoblinALCHEMIST', 'Naisha', 'Footman', 'AncestralGuardian', 'Scarab', 'MortarTeam', 'SpiritOfVengeance', 'TheCaptain', 'WarEagle', 'GryphonRider', 'Muradin', 'InfernalCannonCannon', 'HumanTransportShip', 'Wolf', 'Penguin', 'Demoness', 'GiantSeaTurtle', 'Tichondrius', 'Arthas', 'StasisTotem', 'BlackStagMale', 'ForestTroll', 'BloodElfPeasant', 'KotoBeast', 'Maiev', 'HeroMountainKing', 'EasterRabbit', 'Peon', 'Bandit', 'Dranai', 'IceTroll', 'BansheeGhost', 'Rifleman', 'GoblinSapper', 'EarthPandarenBrewmaster', 'HermitCrab', 'Catapult', 'EasterChicken', 'Jaina', 'HeroTinker', 'Kobold', 'Furbolg', 'VillagerWoman', 'GrizzlyBear', 'SentryWard', 'HeroPaladin', 'Huntress', 'HeroDemonHunter', 'Wendigo', 'Felgaurd', 'HeroBladeMaster', 'Sheep', 'Priest', 'NagaRoyalGuard', 'Chimaera', 'Hellscream', 'Units', 'InfernalCannonFlame', 'BlackDragon', 'Uther', 'BloodElfSpellThief', 'Murloc', 'Banshee', 'Vulture', 'FrostWyrm', 'Hydralisk', 'DruidOfTheClaw', 'Zombie', 'HeroDreadLord', 'Furion', 'HippoGryph', 'Frog', 'HeroLich', 'Hydra', 'Buildings', 'Pitlord', 'Knight', 'KelThuzadNecro', 'GoblinLandMine', 'UndeadAirBarge', 'tuskar', 'IronGolem', 'GnollArcher', 'Kael', 'Revenant', 'Satyr', 'BristleBack', 'AzureDragon', 'Centaur', 'ChaosWarlord', 'KnightNoRider', 'Albatross', 'Dryad', 'HeroTinkerRobot', 'Archer', 'DragonSpawnBlue', 'DoomGuard', 'GoblinZeppelin', 'GolemStatue', 'DrekThar', 'Watcher', 'Vengeance', 'Shandris', 'FaerieDragon', 'EvilArthas', 'KelThuzadLich', 'CorruptedEnt', 'HealingWard', 'FacelessOne', 'Owl', 'Skink', 'Phoenix', 'HeroWarden', 'CryptFiend', 'Wolfrider', 'Ghoul', 'HeroFlameLord', 'HeroTinkerFactory', 'Archnathid', 'Lobstrokkblue', 'Runner', 'Peasant', 'Nazgrel', 'HeroArchMage', 'SnapDragon', 'EvilSylvanas', 'Shade', 'WaterElemental', 'HeroMoonPriestess', 'ForgottenOne', 'Time', 'HeroPitLord', 'HeroDeathKnight', 'VillagerMan1', 'PandarenBrewmaster', 'Grunt', 'SpiderCrab', 'WindSerpent', 'SludgeMonster', 'DuneWorm', 'NetherDragon', 'Abomination', 'LavaSpawn', 'BloodElfDragonHawk', 'Infernal', 'Seal', 'BatTroll', 'Shaman', 'StormPandarenBrewmaster', 'ObsidianStatue', 'Gnoll', 'NagaMyrmidon', 'MountainGiant', 'ForestTrollShadowPriest', 'VillagerKid', 'Beastmaster', 'WitchDoctor', 'Cairne', 'RiddenHippoGryph', 'Meatwagon', 'felhound', 'NagaSiren', 'Ogre', 'Spider', 'Owlbear', 'Skeleton', 'Unbroken', 'Varimathras', 'HeroBloodElf', 'GyroCopter', 'Rat'][2026-02-10 14:12:58] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:12:59] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:13:01] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+Filtered to 0 options
+Autocomplete called | focused value='trad' | user=vofforila
+Looking for voicelines folder at: /home/vofforila/Discord-Wc3-Random-Voiceline/voicelines
+Found 219 categories: ['Spiritwolf', 'SnowOwl', 'SylvanusWindrunner', 'HeroShadowHunter', 'Wisp', 'DruidOfTheTalon', 'LordGarithos', 'Ent', 'Raccoon', 'HeroNagaSeawitch', 'Ballista', 'MalFurion', 'RockGolem', 'SeaGiant', 'Rokhan', 'VillagerMan', 'FirePandarenBrewmaster', 'HeroCryptLord', 'BansheeRanger', 'WyvernRider', 'HeroKeeperOfTheGrove', 'Magnataur', 'Pig', 'Tyrande', 'Acolyte', 'MurgulBloodGill', 'Sorceress', 'SpiritWalker', 'Harpy', 'Warlock', 'Necromancer', 'Thrall', 'Tauren', 'LadyVashj', 'HeroFarseer', 'Mammoth', 'DireWolf', 'HeadHunter', 'Destructibles', 'DranaiAkama', 'Assassin', 'Illidan', 'QuillBeast', 'Locust', 'SteamTank', 'HeroTaurenChieftain', 'OrcWarlock', 'Gargoyle', 'HEROGoblinALCHEMIST', 'Naisha', 'Footman', 'AncestralGuardian', 'Scarab', 'MortarTeam', 'SpiritOfVengeance', 'TheCaptain', 'WarEagle', 'GryphonRider', 'Muradin', 'InfernalCannonCannon', 'HumanTransportShip', 'Wolf', 'Penguin', 'Demoness', 'GiantSeaTurtle', 'Tichondrius', 'Arthas', 'StasisTotem', 'BlackStagMale', 'ForestTroll', 'BloodElfPeasant', 'KotoBeast', 'Maiev', 'HeroMountainKing', 'EasterRabbit', 'Peon', 'Bandit', 'Dranai', 'IceTroll', 'BansheeGhost', 'Rifleman', 'GoblinSapper', 'EarthPandarenBrewmaster', 'HermitCrab', 'Catapult', 'EasterChicken', 'Jaina', 'HeroTinker', 'Kobold', 'Furbolg', 'VillagerWoman', 'GrizzlyBear', 'SentryWard', 'HeroPaladin', 'Huntress', 'HeroDemonHunter', 'Wendigo', 'Felgaurd', 'HeroBladeMaster', 'Sheep', 'Priest', 'NagaRoyalGuard', 'Chimaera', 'Hellscream', 'Units', 'InfernalCannonFlame', 'BlackDragon', 'Uther', 'BloodElfSpellThief', 'Murloc', 'Banshee', 'Vulture', 'FrostWyrm', 'Hydralisk', 'DruidOfTheClaw', 'Zombie', 'HeroDreadLord', 'Furion', 'HippoGryph', 'Frog', 'HeroLich', 'Hydra', 'Buildings', 'Pitlord', 'Knight', 'KelThuzadNecro', 'GoblinLandMine', 'UndeadAirBarge', 'tuskar', 'IronGolem', 'GnollArcher', 'Kael', 'Revenant', 'Satyr', 'BristleBack', 'AzureDragon', 'Centaur', 'ChaosWarlord', 'KnightNoRider', 'Albatross', 'Dryad', 'HeroTinkerRobot', 'Archer', 'DragonSpawnBlue', 'DoomGuard', 'GoblinZeppelin', 'GolemStatue', 'DrekThar', 'Watcher', 'Vengeance', 'Shandris', 'FaerieDragon', 'EvilArthas', 'KelThuzadLich', 'CorruptedEnt', 'HealingWard', 'FacelessOne', 'Owl', 'Skink', 'Phoenix', 'HeroWarden', 'CryptFiend', 'Wolfrider', 'Ghoul', 'HeroFlameLord', 'HeroTinkerFactory', 'Archnathid', 'Lobstrokkblue', 'Runner', 'Peasant', 'Nazgrel', 'HeroArchMage', 'SnapDragon', 'EvilSylvanas', 'Shade', 'WaterElemental', 'HeroMoonPriestess', 'ForgottenOne', 'Time', 'HeroPitLord', 'HeroDeathKnight', 'VillagerMan1', 'PandarenBrewmaster', 'Grunt', 'SpiderCrab', 'WindSerpent', 'SludgeMonster', 'DuneWorm', 'NetherDragon', 'Abomination', 'LavaSpawn', 'BloodElfDragonHawk', 'Infernal', 'Seal', 'BatTroll', 'Shaman', 'StormPandarenBrewmaster', 'ObsidianStatue', 'Gnoll', 'NagaMyrmidon', 'MountainGiant', 'ForestTrollShadowPriest', 'VillagerKid', 'Beastmaster', 'WitchDoctor', 'Cairne', 'RiddenHippoGryph', 'Meatwagon', 'felhound', 'NagaSiren', 'Ogre', 'Spider', 'Owlbear', 'Skeleton', 'Unbroken', 'Varimathras', 'HeroBloodElf', 'GyroCopter', 'Rat']
+Filtered to 0 options
+Autocomplete called | focused value='shop' | user=vofforila
+Looking for voicelines folder at: /home/vofforila/Discord-Wc3-Random-Voiceline/voicelines
+Found 219 categories: ['Spiritwolf', 'SnowOwl', 'SylvanusWindrunner', 'HeroShadowHunter', 'Wisp', 'DruidOfTheTalon', 'LordGarithos', 'Ent', 'Raccoon', 'HeroNagaSeawitch', 'Ballista', 'MalFurion', 'RockGolem', 'SeaGiant', 'Rokhan', 'VillagerMan', 'FirePandarenBrewmaster', 'HeroCryptLord', 'BansheeRanger', 'WyvernRider', 'HeroKeeperOfTheGrove', 'Magnataur', 'Pig', 'Tyrande', 'Acolyte', 'MurgulBloodGill', 'Sorceress', 'SpiritWalker', 'Harpy', 'Warlock', 'Necromancer', 'Thrall', 'Tauren', 'LadyVashj', 'HeroFarseer', 'Mammoth', 'DireWolf', 'HeadHunter', 'Destructibles', 'DranaiAkama', 'Assassin', 'Illidan', 'QuillBeast', 'Locust', 'SteamTank', 'HeroTaurenChieftain', 'OrcWarlock', 'Gargoyle', 'HEROGoblinALCHEMIST', 'Naisha', 'Footman', 'AncestralGuardian', 'Scarab', 'MortarTeam', 'SpiritOfVengeance', 'TheCaptain', 'WarEagle', 'GryphonRider', 'Muradin', 'InfernalCannonCannon', 'HumanTransportShip', 'Wolf', 'Penguin', 'Demoness', 'GiantSeaTurtle', 'Tichondrius', 'Arthas', 'StasisTotem', 'BlackStagMale', 'ForestTroll', 'BloodElfPeasant', 'KotoBeast', 'Maiev', 'HeroMountainKing', 'EasterRabbit', 'Peon', 'Bandit', 'Dranai', 'IceTroll', 'BansheeGhost', 'Rifleman', 'GoblinSapper', 'EarthPandarenBrewmaster', 'HermitCrab', 'Catapult', 'EasterChicken', 'Jaina', 'HeroTinker', 'Kobold', 'Furbolg', 'VillagerWoman', 'GrizzlyBear', 'SentryWard', 'HeroPaladin', 'Huntress', 'HeroDemonHunter', 'Wendigo', 'Felgaurd', 'HeroBladeMaster', 'Sheep', 'Priest', 'NagaRoyalGuard', 'Chimaera', 'Hellscream', 'Units', 'InfernalCannonFlame', 'BlackDragon', 'Uther', 'BloodElfSpellThief', 'Murloc', 'Banshee', 'Vulture', 'FrostWyrm', 'Hydralisk', 'DruidOfTheClaw', 'Zombie', 'HeroDreadLord', 'Furion', 'HippoGryph', 'Frog', 'HeroLich', 'Hydra', 'Buildings', 'Pitlord', 'Knight', 'KelThuzadNecro', 'GoblinLandMine', 'UndeadAirBarge', 'tuskar', 'IronGolem', 'GnollArcher', 'Kael', 'Revenant', 'Satyr', 'BristleBack', 'AzureDragon', 'Centaur', 'ChaosWarlord', 'KnightNoRider', 'Albatross', 'Dryad', 'HeroTinkerRobot', 'Archer', 'DragonSpawnBlue', 'DoomGuard', 'GoblinZeppelin', 'GolemStatue', 'DrekThar', 'Watcher', 'Vengeance', 'Shandris', 'FaerieDragon', 'EvilArthas', 'KelThuzadLich', 'CorruptedEnt', 'HealingWard', 'FacelessOne', 'Owl', 'Skink', 'Phoenix', 'HeroWarden', 'CryptFiend', 'Wolfrider', 'Ghoul', 'HeroFlameLord', 'HeroTinkerFactory', 'Archnathid', 'Lobstrokkblue', 'Runner', 'Peasant', 'Nazgrel', 'HeroArchMage', 'SnapDragon', 'EvilSylvanas', 'Shade', 'WaterElemental', 'HeroMoonPriestess', 'ForgottenOne', 'Time', 'HeroPitLord', 'HeroDeathKnight', 'VillagerMan1', 'PandarenBrewmaster', 'Grunt', 'SpiderCrab', 'WindSerpent', 'SludgeMonster', 'DuneWorm', 'NetherDragon', 'Abomination', 'LavaSpawn', 'BloodElfDragonHawk', 'Infernal', 'Seal', 'BatTroll', 'Shaman', 'StormPandarenBrewmaster', 'ObsidianStatue', 'Gnoll', 'NagaMyrmidon', 'MountainGiant', 'ForestTrollShadowPriest', 'VillagerKid', 'Beastmaster', 'WitchDoctor', 'Cairne', 'RiddenHippoGryph', 'Meatwagon', 'felhound', 'NagaSiren', 'Ogre', 'Spider', 'Owlbear', 'Skeleton', 'Unbroken', 'Varimathras', 'HeroBloodElf', 'GyroCopter', 'Rat']
+Filtered to 0 options
+Autocomplete called | focused value='sho' | user=vofforila
+Looking for voicelines folder at: /home/vofforila/Discord-Wc3-Random-Voiceline/voicelines
+Found 219 categories: ['Spiritwolf', 'SnowOwl', 'SylvanusWindrunner', 'HeroShadowHunter', 'Wisp', 'DruidOfTheTalon', 'LordGarithos', 'Ent', 'Raccoon', 'HeroNagaSeawitch', 'Ballista', 'MalFurion', 'RockGolem', 'SeaGiant', 'Rokhan', 'VillagerMan', 'FirePandarenBrewmaster', 'HeroCryptLord', 'BansheeRanger', 'WyvernRider', 'HeroKeeperOfTheGrove', 'Magnataur', 'Pig', 'Tyrande', 'Acolyte', 'MurgulBloodGill', 'Sorceress', 'SpiritWalker', 'Harpy', 'Warlock', 'Necromancer', 'Thrall', 'Tauren', 'LadyVashj', 'HeroFarseer', 'Mammoth', 'DireWolf', 'HeadHunter', 'Destructibles', 'DranaiAkama', 'Assassin', 'Illidan', 'QuillBeast', 'Locust', 'SteamTank', 'HeroTaurenChieftain', 'OrcWarlock', 'Gargoyle', 'HEROGoblinALCHEMIST', 'Naisha', 'Footman', 'AncestralGuardian', 'Scarab', 'MortarTeam', 'SpiritOfVengeance', 'TheCaptain', 'WarEagle', 'GryphonRider', 'Muradin', 'InfernalCannonCannon', 'HumanTransportShip', 'Wolf', 'Penguin', 'Demoness', 'GiantSeaTurtle', 'Tichondrius', 'Arthas', 'StasisTotem', 'BlackStagMale', 'ForestTroll', 'BloodElfPeasant', 'KotoBeast', 'Maiev', 'HeroMountainKing', 'EasterRabbit', 'Peon', 'Bandit', 'Dranai', 'IceTroll', 'BansheeGhost', 'Rifleman', 'GoblinSapper', 'EarthPandarenBrewmaster', 'HermitCrab', 'Catapult', 'EasterChicken', 'Jaina', 'HeroTinker', 'Kobold', 'Furbolg', 'VillagerWoman', 'GrizzlyBear', 'SentryWard', 'HeroPaladin', 'Huntress', 'HeroDemonHunter', 'Wendigo', 'Felgaurd', 'HeroBladeMaster', 'Sheep', 'Priest', 'NagaRoyalGuard', 'Chimaera', 'Hellscream', 'Units', 'InfernalCannonFlame', 'BlackDragon', 'Uther', 'BloodElfSpellThief', 'Murloc', 'Banshee', 'Vulture', 'FrostWyrm', 'Hydralisk', 'DruidOfTheClaw', 'Zombie', 'HeroDreadLord', 'Furion', 'HippoGryph', 'Frog', 'HeroLich', 'Hydra', 'Buildings', 'Pitlord', 'Knight', 'KelThuzadNecro', 'GoblinLandMine', 'UndeadAirBarge', 'tuskar', 'IronGolem', 'GnollArcher', 'Kael', 'Revenant', 'Satyr', 'BristleBack', 'AzureDragon', 'Centaur', 'ChaosWarlord', 'KnightNoRider', 'Albatross', 'Dryad', 'HeroTinkerRobot', 'Archer', 'DragonSpawnBlue', 'DoomGuard', 'GoblinZeppelin', 'GolemStatue', 'DrekThar', 'Watcher', 'Vengeance', 'Shandris', 'FaerieDragon', 'EvilArthas', 'KelThuzadLich', 'CorruptedEnt', 'HealingWard', 'FacelessOne', 'Owl', 'Skink', 'Phoenix', 'HeroWarden', 'CryptFiend', 'Wolfrider', 'Ghoul', 'HeroFlameLord', 'HeroTinkerFactory', 'Archnathid', 'Lobstrokkblue', 'Runner', 'Peasant', 'Nazgrel', 'HeroArchMage', 'SnapDragon', 'EvilSylvanas', 'Shade', 'WaterElemental', 'HeroMoonPriestess', 'ForgottenOne', 'Time', 'HeroPitLord', 'HeroDeathKnight', 'VillagerMan1', 'PandarenBrewmaster', 'Grunt', 'SpiderCrab', 'WindSerpent', 'SludgeMonster', 'DuneWorm', 'NetherDragon', 'Abomination', 'LavaSpawn', 'BloodElfDragonHawk', 'Infernal', 'Seal', 'BatTroll', 'Shaman', 'StormPandarenBrewmaster', 'ObsidianStatue', 'Gnoll', 'NagaMyrmidon', 'MountainGiant', 'ForestTrollShadowPriest', 'VillagerKid', 'Beastmaster', 'WitchDoctor', 'Cairne', 'RiddenHippoGryph', 'Meatwagon', 'felhound', 'NagaSiren', 'Ogre', 'Spider', 'Owlbear', 'Skeleton', 'Unbroken', 'Varimathras', 'HeroBloodElf', 'GyroCopter', 'Rat'][2026-02-10 14:13:02] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:13:11] [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'random'
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/asyncio/tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/voice_state.py", line 407, in _inner_connect
+    await self._wait_for_state(ConnectionFlowState.got_both_voice_updates)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/voice_state.py", line 559, in _wait_for_state
+    await sane_wait_for([self._state_event.wait()], timeout=timeout)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/utils.py", line 727, in sane_wait_for
+    done, pending = await asyncio.wait(ensured, timeout=timeout, return_when=asyncio.ALL_COMPLETED)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/asyncio/tasks.py", line 451, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/asyncio/tasks.py", line 537, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vofforila/Discord-Wc3-Random-Voiceline/bot.py", line 170, in rand
+    vc = await voice_channel.connect()
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/abc.py", line 2149, in connect
+    await voice.connect(timeout=timeout, reconnect=reconnect, self_deaf=self_deaf, self_mute=self_mute)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/voice_client.py", line 306, in connect
+    await self._connection.connect(
+        reconnect=reconnect, timeout=timeout, self_deaf=self_deaf, self_mute=self_mute, resume=False
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/voice_state.py", line 380, in connect
+    await self._connector
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/voice_state.py", line 384, in _wrap_connect
+    await self._connect(*args)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/voice_state.py", line 429, in _connect
+    await asyncio.wait_for(
+    ...<2 lines>...
+    )
+  File "/usr/lib/python3.13/asyncio/tasks.py", line 506, in wait_for
+    async with timeouts.timeout(timeout):
+               ~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/lib/python3.13/asyncio/timeouts.py", line 116, in __aexit__
+    raise TimeoutError from exc_val
+TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1297, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'random' raised an exception: TimeoutError: 
+[2026-02-10 14:13:19] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:13:22] [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vofforila/Discord-Wc3-Random-Voiceline/bot.py", line 111, in play
+    await interaction.response.defer()
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 858, in defer
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1297, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'play' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+Filtered to 0 options
+Autocomplete called | focused value='a' | user=vofforila
+Looking for voicelines folder at: /home/vofforila/Discord-Wc3-Random-Voiceline/voicelines
+Found 219 categories: ['Spiritwolf', 'SnowOwl', 'SylvanusWindrunner', 'HeroShadowHunter', 'Wisp', 'DruidOfTheTalon', 'LordGarithos', 'Ent', 'Raccoon', 'HeroNagaSeawitch', 'Ballista', 'MalFurion', 'RockGolem', 'SeaGiant', 'Rokhan', 'VillagerMan', 'FirePandarenBrewmaster', 'HeroCryptLord', 'BansheeRanger', 'WyvernRider', 'HeroKeeperOfTheGrove', 'Magnataur', 'Pig', 'Tyrande', 'Acolyte', 'MurgulBloodGill', 'Sorceress', 'SpiritWalker', 'Harpy', 'Warlock', 'Necromancer', 'Thrall', 'Tauren', 'LadyVashj', 'HeroFarseer', 'Mammoth', 'DireWolf', 'HeadHunter', 'Destructibles', 'DranaiAkama', 'Assassin', 'Illidan', 'QuillBeast', 'Locust', 'SteamTank', 'HeroTaurenChieftain', 'OrcWarlock', 'Gargoyle', 'HEROGoblinALCHEMIST', 'Naisha', 'Footman', 'AncestralGuardian', 'Scarab', 'MortarTeam', 'SpiritOfVengeance', 'TheCaptain', 'WarEagle', 'GryphonRider', 'Muradin', 'InfernalCannonCannon', 'HumanTransportShip', 'Wolf', 'Penguin', 'Demoness', 'GiantSeaTurtle', 'Tichondrius', 'Arthas', 'StasisTotem', 'BlackStagMale', 'ForestTroll', 'BloodElfPeasant', 'KotoBeast', 'Maiev', 'HeroMountainKing', 'EasterRabbit', 'Peon', 'Bandit', 'Dranai', 'IceTroll', 'BansheeGhost', 'Rifleman', 'GoblinSapper', 'EarthPandarenBrewmaster', 'HermitCrab', 'Catapult', 'EasterChicken', 'Jaina', 'HeroTinker', 'Kobold', 'Furbolg', 'VillagerWoman', 'GrizzlyBear', 'SentryWard', 'HeroPaladin', 'Huntress', 'HeroDemonHunter', 'Wendigo', 'Felgaurd', 'HeroBladeMaster', 'Sheep', 'Priest', 'NagaRoyalGuard', 'Chimaera', 'Hellscream', 'Units', 'InfernalCannonFlame', 'BlackDragon', 'Uther', 'BloodElfSpellThief', 'Murloc', 'Banshee', 'Vulture', 'FrostWyrm', 'Hydralisk', 'DruidOfTheClaw', 'Zombie', 'HeroDreadLord', 'Furion', 'HippoGryph', 'Frog', 'HeroLich', 'Hydra', 'Buildings', 'Pitlord', 'Knight', 'KelThuzadNecro', 'GoblinLandMine', 'UndeadAirBarge', 'tuskar', 'IronGolem', 'GnollArcher', 'Kael', 'Revenant', 'Satyr', 'BristleBack', 'AzureDragon', 'Centaur', 'ChaosWarlord', 'KnightNoRider', 'Albatross', 'Dryad', 'HeroTinkerRobot', 'Archer', 'DragonSpawnBlue', 'DoomGuard', 'GoblinZeppelin', 'GolemStatue', 'DrekThar', 'Watcher', 'Vengeance', 'Shandris', 'FaerieDragon', 'EvilArthas', 'KelThuzadLich', 'CorruptedEnt', 'HealingWard', 'FacelessOne', 'Owl', 'Skink', 'Phoenix', 'HeroWarden', 'CryptFiend', 'Wolfrider', 'Ghoul', 'HeroFlameLord', 'HeroTinkerFactory', 'Archnathid', 'Lobstrokkblue', 'Runner', 'Peasant', 'Nazgrel', 'HeroArchMage', 'SnapDragon', 'EvilSylvanas', 'Shade', 'WaterElemental', 'HeroMoonPriestess', 'ForgottenOne', 'Time', 'HeroPitLord', 'HeroDeathKnight', 'VillagerMan1', 'PandarenBrewmaster', 'Grunt', 'SpiderCrab', 'WindSerpent', 'SludgeMonster', 'DuneWorm', 'NetherDragon', 'Abomination', 'LavaSpawn', 'BloodElfDragonHawk', 'Infernal', 'Seal', 'BatTroll', 'Shaman', 'StormPandarenBrewmaster', 'ObsidianStatue', 'Gnoll', 'NagaMyrmidon', 'MountainGiant', 'ForestTrollShadowPriest', 'VillagerKid', 'Beastmaster', 'WitchDoctor', 'Cairne', 'RiddenHippoGryph', 'Meatwagon', 'felhound', 'NagaSiren', 'Ogre', 'Spider', 'Owlbear', 'Skeleton', 'Unbroken', 'Varimathras', 'HeroBloodElf', 'GyroCopter', 'Rat']
+Filtered to 144 options
+Autocomplete called | focused value='alch' | user=vofforila
+Looking for voicelines folder at: /home/vofforila/Discord-Wc3-Random-Voiceline/voicelines
+Found 219 categories: ['Spiritwolf', 'SnowOwl', 'SylvanusWindrunner', 'HeroShadowHunter', 'Wisp', 'DruidOfTheTalon', 'LordGarithos', 'Ent', 'Raccoon', 'HeroNagaSeawitch', 'Ballista', 'MalFurion', 'RockGolem', 'SeaGiant', 'Rokhan', 'VillagerMan', 'FirePandarenBrewmaster', 'HeroCryptLord', 'BansheeRanger', 'WyvernRider', 'HeroKeeperOfTheGrove', 'Magnataur', 'Pig', 'Tyrande', 'Acolyte', 'MurgulBloodGill', 'Sorceress', 'SpiritWalker', 'Harpy', 'Warlock', 'Necromancer', 'Thrall', 'Tauren', 'LadyVashj', 'HeroFarseer', 'Mammoth', 'DireWolf', 'HeadHunter', 'Destructibles', 'DranaiAkama', 'Assassin', 'Illidan', 'QuillBeast', 'Locust', 'SteamTank', 'HeroTaurenChieftain', 'OrcWarlock', 'Gargoyle', 'HEROGoblinALCHEMIST', 'Naisha', 'Footman', 'AncestralGuardian', 'Scarab', 'MortarTeam', 'SpiritOfVengeance', 'TheCaptain', 'WarEagle', 'GryphonRider', 'Muradin', 'InfernalCannonCannon', 'HumanTransportShip', 'Wolf', 'Penguin', 'Demoness', 'GiantSeaTurtle', 'Tichondrius', 'Arthas', 'StasisTotem', 'BlackStagMale', 'ForestTroll', 'BloodElfPeasant', 'KotoBeast', 'Maiev', 'HeroMountainKing', 'EasterRabbit', 'Peon', 'Bandit', 'Dranai', 'IceTroll', 'BansheeGhost', 'Rifleman', 'GoblinSapper', 'EarthPandarenBrewmaster', 'HermitCrab', 'Catapult', 'EasterChicken', 'Jaina', 'HeroTinker', 'Kobold', 'Furbolg', 'VillagerWoman', 'GrizzlyBear', 'SentryWard', 'HeroPaladin', 'Huntress', 'HeroDemonHunter', 'Wendigo', 'Felgaurd', 'HeroBladeMaster', 'Sheep', 'Priest', 'NagaRoyalGuard', 'Chimaera', 'Hellscream', 'Units', 'InfernalCannonFlame', 'BlackDragon', 'Uther', 'BloodElfSpellThief', 'Murloc', 'Banshee', 'Vulture', 'FrostWyrm', 'Hydralisk', 'DruidOfTheClaw', 'Zombie', 'HeroDreadLord', 'Furion', 'HippoGryph', 'Frog', 'HeroLich', 'Hydra', 'Buildings', 'Pitlord', 'Knight', 'KelThuzadNecro', 'GoblinLandMine', 'UndeadAirBarge', 'tuskar', 'IronGolem', 'GnollArcher', 'Kael', 'Revenant', 'Satyr', 'BristleBack', 'AzureDragon', 'Centaur', 'ChaosWarlord', 'KnightNoRider', 'Albatross', 'Dryad', 'HeroTinkerRobot', 'Archer', 'DragonSpawnBlue', 'DoomGuard', 'GoblinZeppelin', 'GolemStatue', 'DrekThar', 'Watcher', 'Vengeance', 'Shandris', 'FaerieDragon', 'EvilArthas', 'KelThuzadLich', 'CorruptedEnt', 'HealingWard', 'FacelessOne', 'Owl', 'Skink', 'Phoenix', 'HeroWarden', 'CryptFiend', 'Wolfrider', 'Ghoul', 'HeroFlameLord', 'HeroTinkerFactory', 'Archnathid', 'Lobstrokkblue', 'Runner', 'Peasant', 'Nazgrel', 'HeroArchMage', 'SnapDragon', 'EvilSylvanas', 'Shade', 'WaterElemental', 'HeroMoonPriestess', 'ForgottenOne', 'Time', 'HeroPitLord', 'HeroDeathKnight', 'VillagerMan1', 'PandarenBrewmaster', 'Grunt', 'SpiderCrab', 'WindSerpent', 'SludgeMonster', 'DuneWorm', 'NetherDragon', 'Abomination', 'LavaSpawn', 'BloodElfDragonHawk', 'Infernal', 'Seal', 'BatTroll', 'Shaman', 'StormPandarenBrewmaster', 'ObsidianStatue', 'Gnoll', 'NagaMyrmidon', 'MountainGiant', 'ForestTrollShadowPriest', 'VillagerKid', 'Beastmaster', 'WitchDoctor', 'Cairne', 'RiddenHippoGryph', 'Meatwagon', 'felhound', 'NagaSiren', 'Ogre', 'Spider', 'Owlbear', 'Skeleton', 'Unbroken', 'Varimathras', 'HeroBloodElf', 'GyroCopter', 'Rat']
+Filtered to 1 options
+Autocomplete called | focused value='' | user=vofforila
+Looking for voicelines folder at: /home/vofforila/Discord-Wc3-Random-Voiceline/voicelines
+Found 219 categories: ['Spiritwolf', 'SnowOwl', 'SylvanusWindrunner', 'HeroShadowHunter', 'Wisp', 'DruidOfTheTalon', 'LordGarithos', 'Ent', 'Raccoon', 'HeroNagaSeawitch', 'Ballista', 'MalFurion', 'RockGolem', 'SeaGiant', 'Rokhan', 'VillagerMan', 'FirePandarenBrewmaster', 'HeroCryptLord', 'BansheeRanger', 'WyvernRider', 'HeroKeeperOfTheGrove', 'Magnataur', 'Pig', 'Tyrande', 'Acolyte', 'MurgulBloodGill', 'Sorceress', 'SpiritWalker', 'Harpy', 'Warlock', 'Necromancer', 'Thrall', 'Tauren', 'LadyVashj', 'HeroFarseer', 'Mammoth', 'DireWolf', 'HeadHunter', 'Destructibles', 'DranaiAkama', 'Assassin', 'Illidan', 'QuillBeast', 'Locust', 'SteamTank', 'HeroTaurenChieftain', 'OrcWarlock', 'Gargoyle', 'HEROGoblinALCHEMIST', 'Naisha', 'Footman', 'AncestralGuardian', 'Scarab', 'MortarTeam', 'SpiritOfVengeance', 'TheCaptain', 'WarEagle', 'GryphonRider', 'Muradin', 'InfernalCannonCannon', 'HumanTransportShip', 'Wolf', 'Penguin', 'Demoness', 'GiantSeaTurtle', 'Tichondrius', 'Arthas', 'StasisTotem', 'BlackStagMale', 'ForestTroll', 'BloodElfPeasant', 'KotoBeast', 'Maiev', 'HeroMountainKing', 'EasterRabbit', 'Peon', 'Bandit', 'Dranai', 'IceTroll', 'BansheeGhost', 'Rifleman', 'GoblinSapper', 'EarthPandarenBrewmaster', 'HermitCrab', 'Catapult', 'EasterChicken', 'Jaina', 'HeroTinker', 'Kobold', 'Furbolg', 'VillagerWoman', 'GrizzlyBear', 'SentryWard', 'HeroPaladin', 'Huntress', 'HeroDemonHunter', 'Wendigo', 'Felgaurd', 'HeroBladeMaster', 'Sheep', 'Priest', 'NagaRoyalGuard', 'Chimaera', 'Hellscream', 'Units', 'InfernalCannonFlame', 'BlackDragon', 'Uther', 'BloodElfSpellThief', 'Murloc', 'Banshee', 'Vulture', 'FrostWyrm', 'Hydralisk', 'DruidOfTheClaw', 'Zombie', 'HeroDreadLord', 'Furion', 'HippoGryph', 'Frog', 'HeroLich', 'Hydra', 'Buildings', 'Pitlord', 'Knight', 'KelThuzadNecro', 'GoblinLandMine', 'UndeadAirBarge', 'tuskar', 'IronGolem', 'GnollArcher', 'Kael', 'Revenant', 'Satyr', 'BristleBack', 'AzureDragon', 'Centaur', 'ChaosWarlord', 'KnightNoRider', 'Albatross', 'Dryad', 'HeroTinkerRobot', 'Archer', 'DragonSpawnBlue', 'DoomGuard', 'GoblinZeppelin', 'GolemStatue', 'DrekThar', 'Watcher', 'Vengeance', 'Shandris', 'FaerieDragon', 'EvilArthas', 'KelThuzadLich', 'CorruptedEnt', 'HealingWard', 'FacelessOne', 'Owl', 'Skink', 'Phoenix', 'HeroWarden', 'CryptFiend', 'Wolfrider', 'Ghoul', 'HeroFlameLord', 'HeroTinkerFactory', 'Archnathid', 'Lobstrokkblue', 'Runner', 'Peasant', 'Nazgrel', 'HeroArchMage', 'SnapDragon', 'EvilSylvanas', 'Shade', 'WaterElemental', 'HeroMoonPriestess', 'ForgottenOne', 'Time', 'HeroPitLord', 'HeroDeathKnight', 'VillagerMan1', 'PandarenBrewmaster', 'Grunt', 'SpiderCrab', 'WindSerpent', 'SludgeMonster', 'DuneWorm', 'NetherDragon', 'Abomination', 'LavaSpawn', 'BloodElfDragonHawk', 'Infernal', 'Seal', 'BatTroll', 'Shaman', 'StormPandarenBrewmaster', 'ObsidianStatue', 'Gnoll', 'NagaMyrmidon', 'MountainGiant', 'ForestTrollShadowPriest', 'VillagerKid', 'Beastmaster', 'WitchDoctor', 'Cairne', 'RiddenHippoGryph', 'Meatwagon', 'felhound', 'NagaSiren', 'Ogre', 'Spider', 'Owlbear', 'Skeleton', 'Unbroken', 'Varimathras', 'HeroBloodElf', 'GyroCopter', 'Rat'][2026-02-10 14:13:38] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+[2026-02-10 14:13:42] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:13:43] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+Returning all 219 options
+Autocomplete called | focused value='I' | user=vofforila
+Looking for voicelines folder at: /home/vofforila/Discord-Wc3-Random-Voiceline/voicelines
+Found 219 categories: ['Spiritwolf', 'SnowOwl', 'SylvanusWindrunner', 'HeroShadowHunter', 'Wisp', 'DruidOfTheTalon', 'LordGarithos', 'Ent', 'Raccoon', 'HeroNagaSeawitch', 'Ballista', 'MalFurion', 'RockGolem', 'SeaGiant', 'Rokhan', 'VillagerMan', 'FirePandarenBrewmaster', 'HeroCryptLord', 'BansheeRanger', 'WyvernRider', 'HeroKeeperOfTheGrove', 'Magnataur', 'Pig', 'Tyrande', 'Acolyte', 'MurgulBloodGill', 'Sorceress', 'SpiritWalker', 'Harpy', 'Warlock', 'Necromancer', 'Thrall', 'Tauren', 'LadyVashj', 'HeroFarseer', 'Mammoth', 'DireWolf', 'HeadHunter', 'Destructibles', 'DranaiAkama', 'Assassin', 'Illidan', 'QuillBeast', 'Locust', 'SteamTank', 'HeroTaurenChieftain', 'OrcWarlock', 'Gargoyle', 'HEROGoblinALCHEMIST', 'Naisha', 'Footman', 'AncestralGuardian', 'Scarab', 'MortarTeam', 'SpiritOfVengeance', 'TheCaptain', 'WarEagle', 'GryphonRider', 'Muradin', 'InfernalCannonCannon', 'HumanTransportShip', 'Wolf', 'Penguin', 'Demoness', 'GiantSeaTurtle', 'Tichondrius', 'Arthas', 'StasisTotem', 'BlackStagMale', 'ForestTroll', 'BloodElfPeasant', 'KotoBeast', 'Maiev', 'HeroMountainKing', 'EasterRabbit', 'Peon', 'Bandit', 'Dranai', 'IceTroll', 'BansheeGhost', 'Rifleman', 'GoblinSapper', 'EarthPandarenBrewmaster', 'HermitCrab', 'Catapult', 'EasterChicken', 'Jaina', 'HeroTinker', 'Kobold', 'Furbolg', 'VillagerWoman', 'GrizzlyBear', 'SentryWard', 'HeroPaladin', 'Huntress', 'HeroDemonHunter', 'Wendigo', 'Felgaurd', 'HeroBladeMaster', 'Sheep', 'Priest', 'NagaRoyalGuard', 'Chimaera', 'Hellscream', 'Units', 'InfernalCannonFlame', 'BlackDragon', 'Uther', 'BloodElfSpellThief', 'Murloc', 'Banshee', 'Vulture', 'FrostWyrm', 'Hydralisk', 'DruidOfTheClaw', 'Zombie', 'HeroDreadLord', 'Furion', 'HippoGryph', 'Frog', 'HeroLich', 'Hydra', 'Buildings', 'Pitlord', 'Knight', 'KelThuzadNecro', 'GoblinLandMine', 'UndeadAirBarge', 'tuskar', 'IronGolem', 'GnollArcher', 'Kael', 'Revenant', 'Satyr', 'BristleBack', 'AzureDragon', 'Centaur', 'ChaosWarlord', 'KnightNoRider', 'Albatross', 'Dryad', 'HeroTinkerRobot', 'Archer', 'DragonSpawnBlue', 'DoomGuard', 'GoblinZeppelin', 'GolemStatue', 'DrekThar', 'Watcher', 'Vengeance', 'Shandris', 'FaerieDragon', 'EvilArthas', 'KelThuzadLich', 'CorruptedEnt', 'HealingWard', 'FacelessOne', 'Owl', 'Skink', 'Phoenix', 'HeroWarden', 'CryptFiend', 'Wolfrider', 'Ghoul', 'HeroFlameLord', 'HeroTinkerFactory', 'Archnathid', 'Lobstrokkblue', 'Runner', 'Peasant', 'Nazgrel', 'HeroArchMage', 'SnapDragon', 'EvilSylvanas', 'Shade', 'WaterElemental', 'HeroMoonPriestess', 'ForgottenOne', 'Time', 'HeroPitLord', 'HeroDeathKnight', 'VillagerMan1', 'PandarenBrewmaster', 'Grunt', 'SpiderCrab', 'WindSerpent', 'SludgeMonster', 'DuneWorm', 'NetherDragon', 'Abomination', 'LavaSpawn', 'BloodElfDragonHawk', 'Infernal', 'Seal', 'BatTroll', 'Shaman', 'StormPandarenBrewmaster', 'ObsidianStatue', 'Gnoll', 'NagaMyrmidon', 'MountainGiant', 'ForestTrollShadowPriest', 'VillagerKid', 'Beastmaster', 'WitchDoctor', 'Cairne', 'RiddenHippoGryph', 'Meatwagon', 'felhound', 'NagaSiren', 'Ogre', 'Spider', 'Owlbear', 'Skeleton', 'Unbroken', 'Varimathras', 'HeroBloodElf', 'GyroCopter', 'Rat']
+Filtered to 104 options
+Autocomplete called | focused value='Ili' | user=vofforila
+Looking for voicelines folder at: /home/vofforila/Discord-Wc3-Random-Voiceline/voicelines
+Found 219 categories: ['Spiritwolf', 'SnowOwl', 'SylvanusWindrunner', 'HeroShadowHunter', 'Wisp', 'DruidOfTheTalon', 'LordGarithos', 'Ent', 'Raccoon', 'HeroNagaSeawitch', 'Ballista', 'MalFurion', 'RockGolem', 'SeaGiant', 'Rokhan', 'VillagerMan', 'FirePandarenBrewmaster', 'HeroCryptLord', 'BansheeRanger', 'WyvernRider', 'HeroKeeperOfTheGrove', 'Magnataur', 'Pig', 'Tyrande', 'Acolyte', 'MurgulBloodGill', 'Sorceress', 'SpiritWalker', 'Harpy', 'Warlock', 'Necromancer', 'Thrall', 'Tauren', 'LadyVashj', 'HeroFarseer', 'Mammoth', 'DireWolf', 'HeadHunter', 'Destructibles', 'DranaiAkama', 'Assassin', 'Illidan', 'QuillBeast', 'Locust', 'SteamTank', 'HeroTaurenChieftain', 'OrcWarlock', 'Gargoyle', 'HEROGoblinALCHEMIST', 'Naisha', 'Footman', 'AncestralGuardian', 'Scarab', 'MortarTeam', 'SpiritOfVengeance', 'TheCaptain', 'WarEagle', 'GryphonRider', 'Muradin', 'InfernalCannonCannon', 'HumanTransportShip', 'Wolf', 'Penguin', 'Demoness', 'GiantSeaTurtle', 'Tichondrius', 'Arthas', 'StasisTotem', 'BlackStagMale', 'ForestTroll', 'BloodElfPeasant', 'KotoBeast', 'Maiev', 'HeroMountainKing', 'EasterRabbit', 'Peon', 'Bandit', 'Dranai', 'IceTroll', 'BansheeGhost', 'Rifleman', 'GoblinSapper', 'EarthPandarenBrewmaster', 'HermitCrab', 'Catapult', 'EasterChicken', 'Jaina', 'HeroTinker', 'Kobold', 'Furbolg', 'VillagerWoman', 'GrizzlyBear', 'SentryWard', 'HeroPaladin', 'Huntress', 'HeroDemonHunter', 'Wendigo', 'Felgaurd', 'HeroBladeMaster', 'Sheep', 'Priest', 'NagaRoyalGuard', 'Chimaera', 'Hellscream', 'Units', 'InfernalCannonFlame', 'BlackDragon', 'Uther', 'BloodElfSpellThief', 'Murloc', 'Banshee', 'Vulture', 'FrostWyrm', 'Hydralisk', 'DruidOfTheClaw', 'Zombie', 'HeroDreadLord', 'Furion', 'HippoGryph', 'Frog', 'HeroLich', 'Hydra', 'Buildings', 'Pitlord', 'Knight', 'KelThuzadNecro', 'GoblinLandMine', 'UndeadAirBarge', 'tuskar', 'IronGolem', 'GnollArcher', 'Kael', 'Revenant', 'Satyr', 'BristleBack', 'AzureDragon', 'Centaur', 'ChaosWarlord', 'KnightNoRider', 'Albatross', 'Dryad', 'HeroTinkerRobot', 'Archer', 'DragonSpawnBlue', 'DoomGuard', 'GoblinZeppelin', 'GolemStatue', 'DrekThar', 'Watcher', 'Vengeance', 'Shandris', 'FaerieDragon', 'EvilArthas', 'KelThuzadLich', 'CorruptedEnt', 'HealingWard', 'FacelessOne', 'Owl', 'Skink', 'Phoenix', 'HeroWarden', 'CryptFiend', 'Wolfrider', 'Ghoul', 'HeroFlameLord', 'HeroTinkerFactory', 'Archnathid', 'Lobstrokkblue', 'Runner', 'Peasant', 'Nazgrel', 'HeroArchMage', 'SnapDragon', 'EvilSylvanas', 'Shade', 'WaterElemental', 'HeroMoonPriestess', 'ForgottenOne', 'Time', 'HeroPitLord', 'HeroDeathKnight', 'VillagerMan1', 'PandarenBrewmaster', 'Grunt', 'SpiderCrab', 'WindSerpent', 'SludgeMonster', 'DuneWorm', 'NetherDragon', 'Abomination', 'LavaSpawn', 'BloodElfDragonHawk', 'Infernal', 'Seal', 'BatTroll', 'Shaman', 'StormPandarenBrewmaster', 'ObsidianStatue', 'Gnoll', 'NagaMyrmidon', 'MountainGiant', 'ForestTrollShadowPriest', 'VillagerKid', 'Beastmaster', 'WitchDoctor', 'Cairne', 'RiddenHippoGryph', 'Meatwagon', 'felhound', 'NagaSiren', 'Ogre', 'Spider', 'Owlbear', 'Skeleton', 'Unbroken', 'Varimathras', 'HeroBloodElf', 'GyroCopter', 'Rat']
+Filtered to 0 options
+Autocomplete called | focused value='Il' | user=vofforila
+Looking for voicelines folder at: /home/vofforila/Discord-Wc3-Random-Voiceline/voicelines
+Found 219 categories: ['Spiritwolf', 'SnowOwl', 'SylvanusWindrunner', 'HeroShadowHunter', 'Wisp', 'DruidOfTheTalon', 'LordGarithos', 'Ent', 'Raccoon', 'HeroNagaSeawitch', 'Ballista', 'MalFurion', 'RockGolem', 'SeaGiant', 'Rokhan', 'VillagerMan', 'FirePandarenBrewmaster', 'HeroCryptLord', 'BansheeRanger', 'WyvernRider', 'HeroKeeperOfTheGrove', 'Magnataur', 'Pig', 'Tyrande', 'Acolyte', 'MurgulBloodGill', 'Sorceress', 'SpiritWalker', 'Harpy', 'Warlock', 'Necromancer', 'Thrall', 'Tauren', 'LadyVashj', 'HeroFarseer', 'Mammoth', 'DireWolf', 'HeadHunter', 'Destructibles', 'DranaiAkama', 'Assassin', 'Illidan', 'QuillBeast', 'Locust', 'SteamTank', 'HeroTaurenChieftain', 'OrcWarlock', 'Gargoyle', 'HEROGoblinALCHEMIST', 'Naisha', 'Footman', 'AncestralGuardian', 'Scarab', 'MortarTeam', 'SpiritOfVengeance', 'TheCaptain', 'WarEagle', 'GryphonRider', 'Muradin', 'InfernalCannonCannon', 'HumanTransportShip', 'Wolf', 'Penguin', 'Demoness', 'GiantSeaTurtle', 'Tichondrius', 'Arthas', 'StasisTotem', 'BlackStagMale', 'ForestTroll', 'BloodElfPeasant', 'KotoBeast', 'Maiev', 'HeroMountainKing', 'EasterRabbit', 'Peon', 'Bandit', 'Dranai', 'IceTroll', 'BansheeGhost', 'Rifleman', 'GoblinSapper', 'EarthPandarenBrewmaster', 'HermitCrab', 'Catapult', 'EasterChicken', 'Jaina', 'HeroTinker', 'Kobold', 'Furbolg', 'VillagerWoman', 'GrizzlyBear', 'SentryWard', 'HeroPaladin', 'Huntress', 'HeroDemonHunter', 'Wendigo', 'Felgaurd', 'HeroBladeMaster', 'Sheep', 'Priest', 'NagaRoyalGuard', 'Chimaera', 'Hellscream', 'Units', 'InfernalCannonFlame', 'BlackDragon', 'Uther', 'BloodElfSpellThief', 'Murloc', 'Banshee', 'Vulture', 'FrostWyrm', 'Hydralisk', 'DruidOfTheClaw', 'Zombie', 'HeroDreadLord', 'Furion', 'HippoGryph', 'Frog', 'HeroLich', 'Hydra', 'Buildings', 'Pitlord', 'Knight', 'KelThuzadNecro', 'GoblinLandMine', 'UndeadAirBarge', 'tuskar', 'IronGolem', 'GnollArcher', 'Kael', 'Revenant', 'Satyr', 'BristleBack', 'AzureDragon', 'Centaur', 'ChaosWarlord', 'KnightNoRider', 'Albatross', 'Dryad', 'HeroTinkerRobot', 'Archer', 'DragonSpawnBlue', 'DoomGuard', 'GoblinZeppelin', 'GolemStatue', 'DrekThar', 'Watcher', 'Vengeance', 'Shandris', 'FaerieDragon', 'EvilArthas', 'KelThuzadLich', 'CorruptedEnt', 'HealingWard', 'FacelessOne', 'Owl', 'Skink', 'Phoenix', 'HeroWarden', 'CryptFiend', 'Wolfrider', 'Ghoul', 'HeroFlameLord', 'HeroTinkerFactory', 'Archnathid', 'Lobstrokkblue', 'Runner', 'Peasant', 'Nazgrel', 'HeroArchMage', 'SnapDragon', 'EvilSylvanas', 'Shade', 'WaterElemental', 'HeroMoonPriestess', 'ForgottenOne', 'Time', 'HeroPitLord', 'HeroDeathKnight', 'VillagerMan1', 'PandarenBrewmaster', 'Grunt', 'SpiderCrab', 'WindSerpent', 'SludgeMonster', 'DuneWorm', 'NetherDragon', 'Abomination', 'LavaSpawn', 'BloodElfDragonHawk', 'Infernal', 'Seal', 'BatTroll', 'Shaman', 'StormPandarenBrewmaster', 'ObsidianStatue', 'Gnoll', 'NagaMyrmidon', 'MountainGiant', 'ForestTrollShadowPriest', 'VillagerKid', 'Beastmaster', 'WitchDoctor', 'Cairne', 'RiddenHippoGryph', 'Meatwagon', 'felhound', 'NagaSiren', 'Ogre', 'Spider', 'Owlbear', 'Skeleton', 'Unbroken', 'Varimathras', 'HeroBloodElf', 'GyroCopter', 'Rat'][2026-02-10 14:13:43] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+[2026-02-10 14:13:45] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:13:59] [ERROR   ] discord.app_commands.tree: Ignoring exception in autocomplete for 'play'
+Traceback (most recent call last):
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1289, in _call
+    await command._invoke_autocomplete(interaction, focused, namespace)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/app_commands/commands.py", line 928, in _invoke_autocomplete
+    await interaction.response.autocomplete(choices)
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/interactions.py", line 1332, in autocomplete
+    await adapter.create_interaction_response(
+    ...<6 lines>...
+    )
+  File "/home/vofforila/venv/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[2026-02-10 14:14:01] [INFO    ] discord.voice_state: Connecting to voice...
+[2026-02-10 14:14:01] [INFO    ] discord.voice_state: Starting voice handshake... (connection attempt 1)
+[2026-02-10 14:14:02] [INFO    ] discord.voice_state: Voice handshake complete. Endpoint found: c-otp01-0c944237.discord.media:443
+[2026-02-10 14:14:02] [INFO    ] discord.voice_state: Voice connection complete.
+[aist#0:0/pcm_s16le @ 0x55edf3b487c0] Guessed Channel Layout: mono
+[2026-02-10 14:14:03] [INFO    ] discord.player: ffmpeg process 31507 successfully terminated with return code of 0.
+[2026-02-10 14:14:03] [INFO    ] discord.voice_state: The voice handshake is being terminated for Channel ID 333669908665729025 (Guild ID 327061801231450112)

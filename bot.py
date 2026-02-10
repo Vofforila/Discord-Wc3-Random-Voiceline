@@ -25,37 +25,54 @@ bot = commands.Bot(command_prefix='/', intents=intents)
 
 @bot.event
 async def on_ready():
-    try:
-        synced_command = await bot.tree.sync()
-        print(f"Synced {len(synced_command)} command")
-    except Exception as e:
-        print(e)
-    print("Ready!")
+    print(f"Logged in as {bot.user} (ID: {bot.user.id})")
+    print(f"Guild ID from env: {Guildid}")
 
+    try:
+        guild = discord.Object(id=Guildid)
+
+        synced = await bot.tree.sync(guild=guild)
+        print(f"Synced {len(synced)} commands **to guild {Guildid}**")
+    except Exception as e:
+        print("Sync failed:", e)
 
 def get_voiceline_categories() -> list[app_commands.Choice[str]]:
-    voicelines_folder = pathlib.Path('voicelines')
+    voicelines_folder = pathlib.Path('voicelines').resolve()
+    print(f"Looking for voicelines folder at: {voicelines_folder.absolute()}")
     if not voicelines_folder.exists():
+        print("voicelines folder DOES NOT EXIST")
         return []
-
-    return [
-        app_commands.Choice(name=folder, value=folder)
-        for folder in os.listdir(voicelines_folder)
-        if os.path.isdir(voicelines_folder / folder)
-    ]
+    if not voicelines_folder.is_dir():
+        print("voicelines is not a directory!")
+        return []
+    categories = []
+    try:
+        for folder in os.listdir(voicelines_folder):
+            full_path = voicelines_folder / folder
+            if full_path.is_dir():
+                categories.append(app_commands.Choice(name=folder, value=folder))
+        print(f"Found {len(categories)} categories: {[c.name for c in categories]}")
+    except Exception as e:
+        print(f"Error listing categories: {type(e).__name__}: {e}")
+    return categories
 
 
 async def voiceline_autocomplete(
-        interaction: discord.Interaction,
-        current: str) -> list[app_commands.Choice[str]]:
-    categories = get_voiceline_categories()
-    if current:
-        return [
-            category for category in categories
-            if current.lower() in category.name.lower()
-        ]
-
-    return categories
+    interaction: discord.Interaction,
+    current: str
+) -> list[app_commands.Choice[str]]:
+    print(f"Autocomplete called | focused value='{current}' | user={interaction.user}")
+    try:
+        categories = get_voiceline_categories()
+        if current:
+            filtered = [c for c in categories if current.lower() in c.name.lower()]
+            print(f"Filtered to {len(filtered)} options")
+            return filtered[:25]  # Discord max is 25
+        print(f"Returning all {len(categories)} options")
+        return categories[:25]
+    except Exception as e:
+        print(f"Autocomplete crashed: {type(e).__name__}: {e}")
+        return []  # fallback, but will still show failed
 
 
 @bot.tree.command(name="nuke", description="Nuke the server!")
